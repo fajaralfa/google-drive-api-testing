@@ -19,6 +19,7 @@ Malformed multipart body.
 ```
 - Only text files work.
 - We cannot access the Shared Drive for some reason.
+- We move file to trash by updating file and add trashed to be true 
 
 ## Upload File
 
